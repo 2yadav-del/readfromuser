@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo "this is about sum of two number's "
-
 echo "this program is read value from user"
 
 echo "pls enter the value of : a"
